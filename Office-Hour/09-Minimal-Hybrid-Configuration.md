@@ -15,4 +15,5 @@ You can perform mailbox moves from an on-premises Exchange organization to Excha
 
 When you select the **Minimal Hybrid Configuration** option in the Hybrid Configuration wizard, and if you have not configured Azure AD Connect for directory synchronization, the Hybrid Configuration wizard provides an option to perform a one-time directory sync of users and passwords. The wizard provides the steps to download and install Azure AD Connect for a one-time sync. Alternatively, you can install it later on your own.
 
+add test 
 ‎
