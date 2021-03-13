@@ -1,0 +1,1 @@
+friendly2.md in <module>/includes folder
